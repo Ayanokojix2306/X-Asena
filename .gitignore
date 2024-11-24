@@ -1,8 +1,0 @@
-node_modules/
-session/
-.env
-
-# Ignore the build directory
-
-
-assets/database/store.json
